@@ -38,6 +38,7 @@ mod encoderust;
 // mod encodegifsicle;
 
 mod minipool;
+mod gifski_jni;
 
 use crossbeam_channel::{Receiver, Sender};
 use std::cell::Cell;
